@@ -29,4 +29,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login('process.env.MTQ5NDkzNTU4MjYyMTcwMDEyNg.GW1SgL.UYCOtXbPmJ-fm0m93PsMOVduOOB0SNUef9oP0Q');
+client.login('process.env.MTQ5NDkzNTU4MjYyMTcwMDEyNg.GHLQvk.UhdU81gub_MTjci5zViaVDeJr6Ui1-fdOj3_LU');
